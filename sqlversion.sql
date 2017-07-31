@@ -1,0 +1,1 @@
+﻿select DATABASEPROPERTYEX('C:\Users\Administrator\Source\Repos\SportsStore\SportsStore.WebUI\App_Data\SportsStore.mdf','version')
